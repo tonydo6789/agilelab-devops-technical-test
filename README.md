@@ -4,7 +4,7 @@ This is our technical test. Once you are done, you can either upload the answers
 
 Enjoy!
 
-## 1. Anagram Tester
+## 1. Devops knowledge base
 - Do you know systemd, SysVinit or Upstart?
 - Do you know FHS? How to manage package compile?
 - Should you clean trash in your server when change role?
