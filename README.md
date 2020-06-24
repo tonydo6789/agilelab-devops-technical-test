@@ -17,4 +17,4 @@ Enjoy!
 - How do you deploy code to server? Do you use git pull for deployment?
 
 
-Credited to [xluffy](https://github.com/xluffy){:target="_blank"}
+Credited to [xluffy](https://github.com/xluffy)
